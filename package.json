@@ -1,0 +1,23 @@
+{
+	"name": "lofi-bot",
+	"version": "4.0.0",
+	"description": "Discord bot that plays LOFI music.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"install": "npm i @discordjs/opus@0.3.3 discord.js@12.5.1 ytdl-core@4.2.1 --save"
+	},
+	"repository": "codedipper/lofi-bot",
+	"keywords": [
+		"lofi",
+		"discord-bot",
+		"discord.js"
+	],
+	"author": "Reverse",
+	"license": "MIT",
+	"dependencies": {
+		"@discordjs/opus": "^0.3.3",
+		"discord.js": "^12.5.1",
+		"ytdl-core": "^4.2.1"
+	}
+}
