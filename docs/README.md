@@ -13,5 +13,5 @@
     - Run in the terminal: `npm install` and `npm start`.
 ## Licensing
 This bot is not meant to be reproducted or distributed.\
-All credit goes to `Reverse#0001` or User ID `658346535087636505` on Discord.\
+All credit goes to `Reverse#1728` or User ID `658346535087636505` on Discord.\
 See `docs/LICENSE.md` for more information.
